@@ -14,4 +14,4 @@
 
 365フレーム経つごとに新入生が沸く
 
-![demo]{https://github.com/akikan/processing-/blob/master/FutureSimulator/sim.gif}
+![demo](https://github.com/akikan/processing-/blob/master/FutureSimulator/sim.gif)
