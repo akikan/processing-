@@ -3,3 +3,5 @@
 
 その実験用のプログラム
 processing2で動く
+
+![demo](https://github.com/akikan/processing-/blob/master/star/save.gif)
